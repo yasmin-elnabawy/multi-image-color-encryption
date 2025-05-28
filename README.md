@@ -32,9 +32,6 @@ The code enables both encryption and decryption with full control over channels,
 ├── reverse_patches_reordering.py      # Recover original patch order
 ├── transformation.py                  # Patch transformations
 ├── im512/                             # Input RGB images (512x512)
-├── output_patches_R/                  # Red channel output
-├── output_patches_G/                  # Green channel output
-├── output_patches_B/                  # Blue channel output
 ```
 
 ---
