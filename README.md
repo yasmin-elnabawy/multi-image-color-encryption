@@ -90,5 +90,5 @@ The source code will be archived via Zenodo with a DOI upon paper acceptance. Th
 For questions or feedback, please contact:  
 **Khalid M. Hosny**  
 Email: k_hosny@zu.edu.eg
-**Yasmin M. Elnabawy **
+**Yasmin M. Elnabawy**
 Email: yasmin.el-nabawy@fci.suezuni.edu.eg
